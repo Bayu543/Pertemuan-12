@@ -147,22 +147,23 @@ while True:
 print('Program Selesai') 
 
 * *Hasil Program*
-    * Inputan 'T'   
+    * Inputan 'T' untuk Menambahkan Data   
   <img src="Gambar/SS 1.png">
-    * Inputan 'U'   
+   
+    * Inputan 'U' untuk Mengubah Data  
       <img src="Gambar/SS 2.png">
 
-    * Inputan 'H'   
+    * Inputan 'H' untuk Menghapus Data  
       <img src="Gambar/SS 3.png">
 
-    * Inputan 'L'   
+    * Inputan 'L' untuk Melihat Data  
       <img src="Gambar/SS 4.png">
 
     * Tampilan Data Sesudah Di Hapus
 
      <img src="Gambar/SS 5.png">
 
-    * Inputan 'K'   
+    * Inputan 'K' untuk Keluar dari program  
   <img src="Gambar/SS 6.png">
 
     * Inputan selain 'T', 'L', 'U', 'H', dan 'K'    
