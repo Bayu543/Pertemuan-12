@@ -2,17 +2,17 @@
 
 # OOP (Object-Oriented Programming)
 diff
-Nama  : Michael Nicholas Kardono
-NIM   : 312310568
+Nama  : Bayu Aji Yuwono
+NIM   : 312310492
 Kelas : TI.23.A.5
 
 $${\color{lightblue}PYTHON}$$
 
 ## Program Class Data_Mahasiswa
 * *Diagram Class*
-* <img src="gambar/ss Diagram (2).png">
+* <img src="Gambar/ss Diagram (2).png">
 * *Flowchart*
-<img src="gambar/ss flowchart.png">
+<img src="Gambar/ss flowchart.png">
 
 ### *Penjelasan dan kode Programnya*   
 Program kita kali ini akan menggunakan sistem OOP(Object-Oriented Programming), apa itu OOP?
@@ -147,23 +147,23 @@ while True:
 print('Program Selesai') 
 
 * *Hasil Program*
-    * Inputan 't'   
-  <img src="gambar/ss 1.png">
-    * Inputan 'u'   
-      <img src="gambar/ss 2.png">
+    * Inputan 'T'   
+  <img src="Gambar/SS 1.png">
+    * Inputan 'U'   
+      <img src="Gambar/SS 2.png">
 
-    * Inputan 'h'   
-      <img src="gambar/ss 3.png">
+    * Inputan 'H'   
+      <img src="Gambar/SS 3.png">
 
-    * Inputan 'l'   
-      <img src="gambar/ss 4.png">
+    * Inputan 'L'   
+      <img src="Gambar/SS 4.png">
 
     * Tampilan Data Sesudah Di Hapus
 
-     <img src="gambar/ss 5.png">
+     <img src="Gambar/SS 5.png">
 
-    * Inputan 'k'   
-  <img src="gambar/ss 6.png">
+    * Inputan 'K'   
+  <img src="Gambar/SS 6.png">
 
-    * Inputan selain 't', 'l', 'u', 'h', dan 'k'    
-      <img src="gambar/ss 7.png">
+    * Inputan selain 'T', 'L', 'U', 'H', dan 'K'    
+      <img src="Gambar/SS 7.png">
