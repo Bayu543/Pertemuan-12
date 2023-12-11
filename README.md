@@ -10,9 +10,9 @@ $${\color{lightblue}PYTHON}$$
 
 ## Program Class Data_Mahasiswa
 * *Diagram Class*
-* <img src="Gambar/ss Diagram (2).png">
+* <img src="Diagram/ss Diagram (2).png">
 * *Flowchart*
-<img src="Gambar/ss flowchart.png">
+<img src="flowchart/ss flowchart.png">
 
 ### *Penjelasan dan kode Programnya*   
 Program kita kali ini akan menggunakan sistem OOP(Object-Oriented Programming), apa itu OOP?
