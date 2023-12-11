@@ -1,11 +1,11 @@
 # pratikum8
 
 # OOP (Object-Oriented Programming)
-diff
+```diff
 Nama  : Bayu Aji Yuwono
 NIM   : 312310492
 Kelas : TI.23.A.5
-
+```
 $${\color{lightblue}PYTHON}$$
 
 ## Program Class Data_Mahasiswa
